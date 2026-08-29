@@ -1,0 +1,775 @@
+[Process_1708]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=7836097
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=1708
+Item0=ThŞt t­¬i
+Item0Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item1=Hoµng Ngäc Giíi ChØ
+Item1Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item2=Toµn Th¹ch Giíi ChØ
+Item2Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item3=Minh ¶o Tµ S¸t §éc NhËn
+Item3Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item4=Ngò Hoa Ngäc Lé Hoµn
+Item4Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item5=Ngò Hoa Ngäc Lé Hoµn
+Item5Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item6=Ngò Hoa Ngäc Lé Hoµn
+Item6Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item7=Ngò Hoa Ngäc Lé Hoµn
+Item7Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item8=Ngò Hoa Ngäc Lé Hoµn
+Item8Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item9=Ngò Hoa Ngäc Lé Hoµn
+Item9Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item10=Ngò Hoa Ngäc Lé Hoµn
+Item10Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item11=Ngò Hoa Ngäc Lé Hoµn
+Item11Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item12=Ngò Hoa Ngäc Lé Hoµn
+Item12Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item13=Ngò Hoa Ngäc Lé Hoµn
+Item13Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item14=Ngò Hoa Ngäc Lé Hoµn
+Item14Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Thæ ®Şa phï (sö dông v« h¹n)
+Item22Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item23=Tói d­îc phÈm
+Item23Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item24=Lenh Bai Admin
+Item24Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item25=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item25Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item26=Tó Ngoa
+Item26Desc=<color=100,100,255>Tó Ngoa [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLµ lo¹i hµi th«ng th­êng, ë ®©u còng<enter> thÊy\n\nNĞ tr¸nh: 7 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item27=Lôc Tïng Th¹ch hé th©n phï
+Item27Desc=<color=100,100,255>Lôc Tïng Th¹ch hé th©n phï [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLÖnh phï b»ng Lôc Tïng Th¹ch th«ng<enter> th­êng, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Néi lùc tèi ®a: +14 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255><color=120,120,120>Sinh khİ: +1 ®iÓm  [<color=255,255,255>1<color>-<color=255,215,0>2<color>]\n<color=255,255,255>
+Item28=Bè C©n
+Item28Desc=<color=100,100,255>Bè C©n [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i kh¨n th­êng ®éi cña nh÷ng ng­êi<enter> b×nh d©n\n\nNĞ tr¸nh: 20 ®iÓm\n§é bÒn:   8 /   8\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Néi lùc tèi ®a: +7 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item29=Hoµng Ngäc Giíi ChØ
+Item29Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item30=Hoµng Ngäc Giíi ChØ
+Item30Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item31=Ng­u B× Hé UyÓn
+Item31Desc=<color=100,100,255>Ng­u B× Hé UyÓn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLµ lo¹i hé uyÓn th«ng th­êng b»ng<enter> da tr©u, ®ao kiÕm khã ®©m thñng\n\nNĞ tr¸nh: 13 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+ItemsCount=32
+[Process_13284]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=3918049
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=13284
+Item0=Hoµng Ngäc Giíi ChØ
+Item0Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item1=Tinh §ång Yªu §¸i
+Item1Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +19 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item2=B¹ch §iÖp quÇn
+Item2Desc=<color=100,100,255>B¹ch §iÖp quÇn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nLµ lo¹i th­êng phôc cña n÷ giíi\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item3=Ng­u B× Hé UyÓn
+Item3Desc=<color=100,100,255>Ng­u B× Hé UyÓn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLµ lo¹i hé uyÓn th«ng th­êng b»ng<enter> da tr©u, ®ao kiÕm khã ®©m thñng\n\nNĞ tr¸nh: 13 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item4=Hoµng Ngäc Giíi ChØ
+Item4Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item5=Hoµng Ngäc Giíi ChØ
+Item5Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item6=Bè C©n
+Item6Desc=<color=100,100,255>Bè C©n [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i kh¨n th­êng ®éi cña nh÷ng ng­êi<enter> b×nh d©n\n\nNĞ tr¸nh: 20 ®iÓm\n§é bÒn:   8 /   8\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Néi lùc tèi ®a: +7 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item7=Lôc Tïng Th¹ch hé th©n phï
+Item7Desc=<color=100,100,255>Lôc Tïng Th¹ch hé th©n phï [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLÖnh phï b»ng Lôc Tïng Th¹ch th«ng<enter> th­êng, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Néi lùc tèi ®a: +14 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255><color=120,120,120>Sinh khİ: +1 ®iÓm  [<color=255,255,255>1<color>-<color=255,215,0>2<color>]\n<color=255,255,255>
+Item8=Tó Ngoa
+Item8Desc=<color=100,100,255>Tó Ngoa [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLµ lo¹i hµi th«ng th­êng, ë ®©u còng<enter> thÊy\n\nNĞ tr¸nh: 7 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item9=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item9Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item10=Lenh Bai Admin
+Item10Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item11=Tói d­îc phÈm
+Item11Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item12=Thæ ®Şa phï (sö dông v« h¹n)
+Item12Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item13=Ngò Hoa Ngäc Lé Hoµn
+Item13Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item14=Ngò Hoa Ngäc Lé Hoµn
+Item14Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Ngò Hoa Ngäc Lé Hoµn
+Item22Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item23=Ngò Hoa Ngäc Lé Hoµn
+Item23Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item24=Ngò Hoa Ngäc Lé Hoµn
+Item24Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item25=Ngò Hoa Ngäc Lé Hoµn
+Item25Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item26=Ngò Hoa Ngäc Lé Hoµn
+Item26Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item27=Ngò Hoa Ngäc Lé Hoµn
+Item27Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item28=Ngò Hoa Ngäc Lé Hoµn
+Item28Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item29=Ngò Hoa Ngäc Lé Hoµn
+Item29Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item30=Ngò Hoa Ngäc Lé Hoµn
+Item30Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item31=Minh ¶o Tµ S¸t §éc NhËn
+Item31Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item32=Toµn Th¹ch Giíi ChØ
+Item32Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item33=Hoµng Ngäc Giíi ChØ
+Item33Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item34=ThŞt t­¬i
+Item34Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+ItemsCount=35
+[Process_14376]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=3918049
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=14376
+Item0=ThŞt t­¬i
+Item0Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item1=Hoµng Ngäc Giíi ChØ
+Item1Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item2=Toµn Th¹ch Giíi ChØ
+Item2Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item3=Minh ¶o Tµ S¸t §éc NhËn
+Item3Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item4=Ngò Hoa Ngäc Lé Hoµn
+Item4Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item5=Ngò Hoa Ngäc Lé Hoµn
+Item5Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item6=Ngò Hoa Ngäc Lé Hoµn
+Item6Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item7=Ngò Hoa Ngäc Lé Hoµn
+Item7Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item8=Ngò Hoa Ngäc Lé Hoµn
+Item8Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item9=Ngò Hoa Ngäc Lé Hoµn
+Item9Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item10=Ngò Hoa Ngäc Lé Hoµn
+Item10Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item11=Ngò Hoa Ngäc Lé Hoµn
+Item11Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item12=Ngò Hoa Ngäc Lé Hoµn
+Item12Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item13=Ngò Hoa Ngäc Lé Hoµn
+Item13Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item14=Ngò Hoa Ngäc Lé Hoµn
+Item14Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Thæ ®Şa phï (sö dông v« h¹n)
+Item22Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item23=Tói d­îc phÈm
+Item23Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item24=Lenh Bai Admin
+Item24Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item25=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item25Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item26=Tó Ngoa
+Item26Desc=<color=100,100,255>Tó Ngoa [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLµ lo¹i hµi th«ng th­êng, ë ®©u còng<enter> thÊy\n\nNĞ tr¸nh: 7 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item27=Lôc Tïng Th¹ch hé th©n phï
+Item27Desc=<color=100,100,255>Lôc Tïng Th¹ch hé th©n phï [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLÖnh phï b»ng Lôc Tïng Th¹ch th«ng<enter> th­êng, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Néi lùc tèi ®a: +14 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255><color=120,120,120>Sinh khİ: +1 ®iÓm  [<color=255,255,255>1<color>-<color=255,215,0>2<color>]\n<color=255,255,255>
+Item28=Bè C©n
+Item28Desc=<color=100,100,255>Bè C©n [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i kh¨n th­êng ®éi cña nh÷ng ng­êi<enter> b×nh d©n\n\nNĞ tr¸nh: 20 ®iÓm\n§é bÒn:   8 /   8\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Néi lùc tèi ®a: +7 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item29=Hoµng Ngäc Giíi ChØ
+Item29Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item30=Hoµng Ngäc Giíi ChØ
+Item30Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item31=Ng­u B× Hé UyÓn
+Item31Desc=<color=100,100,255>Ng­u B× Hé UyÓn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLµ lo¹i hé uyÓn th«ng th­êng b»ng<enter> da tr©u, ®ao kiÕm khã ®©m thñng\n\nNĞ tr¸nh: 13 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item32=B¹ch §iÖp quÇn
+Item32Desc=<color=100,100,255>B¹ch §iÖp quÇn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nLµ lo¹i th­êng phôc cña n÷ giíi\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item33=Tinh §ång Yªu §¸i
+Item33Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +19 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item34=Hoµng Ngäc Giíi ChØ
+Item34Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+ItemsCount=35
+[Process_6252]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=3918499
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=6252
+Item0=Tô TiÔn
+Item0Desc=<color=255,255,255>Tô TiÔn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nGiÊu trong èng s¸o, khi thæi vµo<enter> sÏ phãng ra, nh­ng kh¶ n¨ng s¸t<enter> th­¬ng thÊp\n\nS¸t th­¬ng nhá nhÊt: 8 ®iÓm\nS¸t th­¬ng lín nhÊt: 13 ®iÓm\n§é chİnh x¸c: -0%\n§é bÒn:  28 /  28\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 15 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 35 ®iÓm\n
+Item1=Tróc L¹p
+Item1Desc=<color=255,255,255>Tróc L¹p [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i mò th­êng thÊy ë vïng Giang Nam\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:   8 /   8\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item2=Hoµng Ngäc Giíi ChØ
+Item2Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item3=Hu©n Y H­¬ng Nang
+Item3Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item4=Tinh §ång Yªu §¸i
+Item4Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item5=Th¶o Ngoa
+Item5Desc=<color=255,255,255>Th¶o Ngoa [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i giµy b»ng cá th­êng, chÕ t¸c<enter> th« s¬\n\nNĞ tr¸nh: 7 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item6=Tinh §ång Yªu §¸i
+Item6Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +19 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item7=Lan Bè y
+Item7Desc=<color=100,100,255>Lan Bè y [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nlµ thø v¶i b»ng vâ c©y, chØ mÆc nh÷ng<enter> lóc b×nh th­êng\n\nNĞ tr¸nh: 20 ®iÓm\n§é bÒn:  12 /  12\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item8=Yªu §ao
+Item8Desc=<color=100,100,255>Yªu §ao [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i ®ao nhá th«ng th­êng, c¸c hiÖp<enter> kh¸ch rÊt thİch trang bŞ\n\nS¸t th­¬ng nhá nhÊt: 3 ®iÓm\nS¸t th­¬ng lín nhÊt: 11 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn:  22 /  22\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item9=B¹ch §iÖp quÇn
+Item9Desc=<color=100,100,255>B¹ch §iÖp quÇn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLµ lo¹i th­êng phôc cña n÷ giíi\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item10=Hoµng Ngäc Giíi ChØ
+Item10Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item11=ThŞt t­¬i
+Item11Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item12=Hoµng Ngäc Giíi ChØ
+Item12Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item13=Toµn Th¹ch Giíi ChØ
+Item13Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item14=Minh ¶o Tµ S¸t §éc NhËn
+Item14Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Ngò Hoa Ngäc Lé Hoµn
+Item22Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item23=Ngò Hoa Ngäc Lé Hoµn
+Item23Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item24=Ngò Hoa Ngäc Lé Hoµn
+Item24Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item25=Ngò Hoa Ngäc Lé Hoµn
+Item25Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item26=Ngò Hoa Ngäc Lé Hoµn
+Item26Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item27=Ngò Hoa Ngäc Lé Hoµn
+Item27Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item28=Ngò Hoa Ngäc Lé Hoµn
+Item28Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item29=Ngò Hoa Ngäc Lé Hoµn
+Item29Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item30=Ngò Hoa Ngäc Lé Hoµn
+Item30Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item31=Ngò Hoa Ngäc Lé Hoµn
+Item31Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item32=Ngò Hoa Ngäc Lé Hoµn
+Item32Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item33=Thæ ®Şa phï (sö dông v« h¹n)
+Item33Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item34=Tói d­îc phÈm
+Item34Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item35=Lenh Bai Admin
+Item35Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item36=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item36Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item37=Hoµng Ngäc Giíi ChØ
+Item37Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item38=Hoµng Ngäc Giíi ChØ
+Item38Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+ItemsCount=39
+[Process_7008]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=3918499
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=7008
+Item0=Hu©n Y H­¬ng Nang
+Item0Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item1=Hoµng Ngäc Giíi ChØ
+Item1Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item2=Hoµng Ngäc Giíi ChØ
+Item2Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item3=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item3Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item4=Lenh Bai Admin
+Item4Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item5=Tói d­îc phÈm
+Item5Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item6=Thæ ®Şa phï (sö dông v« h¹n)
+Item6Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item7=Ngò Hoa Ngäc Lé Hoµn
+Item7Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item8=Ngò Hoa Ngäc Lé Hoµn
+Item8Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item9=Ngò Hoa Ngäc Lé Hoµn
+Item9Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item10=Ngò Hoa Ngäc Lé Hoµn
+Item10Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item11=Ngò Hoa Ngäc Lé Hoµn
+Item11Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item12=Ngò Hoa Ngäc Lé Hoµn
+Item12Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item13=Ngò Hoa Ngäc Lé Hoµn
+Item13Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item14=Ngò Hoa Ngäc Lé Hoµn
+Item14Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Ngò Hoa Ngäc Lé Hoµn
+Item22Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item23=Ngò Hoa Ngäc Lé Hoµn
+Item23Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item24=Ngò Hoa Ngäc Lé Hoµn
+Item24Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item25=Minh ¶o Tµ S¸t §éc NhËn
+Item25Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item26=Toµn Th¹ch Giíi ChØ
+Item26Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item27=Hoµng Ngäc Giíi ChØ
+Item27Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item28=ThŞt t­¬i
+Item28Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item29=Hoµng Ngäc Giíi ChØ
+Item29Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item30=B¹ch §iÖp quÇn
+Item30Desc=<color=100,100,255>B¹ch §iÖp quÇn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLµ lo¹i th­êng phôc cña n÷ giíi\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item31=Yªu §ao
+Item31Desc=<color=100,100,255>Yªu §ao [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i ®ao nhá th«ng th­êng, c¸c hiÖp<enter> kh¸ch rÊt thİch trang bŞ\n\nS¸t th­¬ng nhá nhÊt: 3 ®iÓm\nS¸t th­¬ng lín nhÊt: 11 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn:  22 /  22\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item32=Lan Bè y
+Item32Desc=<color=100,100,255>Lan Bè y [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nlµ thø v¶i b»ng vâ c©y, chØ mÆc nh÷ng<enter> lóc b×nh th­êng\n\nNĞ tr¸nh: 20 ®iÓm\n§é bÒn:  12 /  12\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item33=Tinh §ång Yªu §¸i
+Item33Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +19 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item34=Th¶o Ngoa
+Item34Desc=<color=255,255,255>Th¶o Ngoa [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i giµy b»ng cá th­êng, chÕ t¸c<enter> th« s¬\n\nNĞ tr¸nh: 7 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item35=Tinh §ång Yªu §¸i
+Item35Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item36=Hu©n Y H­¬ng Nang
+Item36Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item37=Hoµng Ngäc Giíi ChØ
+Item37Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item38=Tróc L¹p
+Item38Desc=<color=255,255,255>Tróc L¹p [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i mò th­êng thÊy ë vïng Giang Nam\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:   8 /   8\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item39=Tô TiÔn
+Item39Desc=<color=255,255,255>Tô TiÔn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nGiÊu trong èng s¸o, khi thæi vµo<enter> sÏ phãng ra, nh­ng kh¶ n¨ng s¸t<enter> th­¬ng thÊp\n\nS¸t th­¬ng nhá nhÊt: 8 ®iÓm\nS¸t th­¬ng lín nhÊt: 13 ®iÓm\n§é chİnh x¸c: -0%\n§é bÒn:  28 /  28\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 15 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 35 ®iÓm\n
+ItemsCount=40
+[Process_16252]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=3918499
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=16252
+Item0=Tô TiÔn
+Item0Desc=<color=255,255,255>Tô TiÔn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nGiÊu trong èng s¸o, khi thæi vµo<enter> sÏ phãng ra, nh­ng kh¶ n¨ng s¸t<enter> th­¬ng thÊp\n\nS¸t th­¬ng nhá nhÊt: 8 ®iÓm\nS¸t th­¬ng lín nhÊt: 13 ®iÓm\n§é chİnh x¸c: -0%\n§é bÒn:  28 /  28\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 15 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 35 ®iÓm\n
+Item1=Tróc L¹p
+Item1Desc=<color=255,255,255>Tróc L¹p [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i mò th­êng thÊy ë vïng Giang Nam\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:   8 /   8\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item2=Hoµng Ngäc Giíi ChØ
+Item2Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item3=Hu©n Y H­¬ng Nang
+Item3Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item4=Tinh §ång Yªu §¸i
+Item4Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item5=Th¶o Ngoa
+Item5Desc=<color=255,255,255>Th¶o Ngoa [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i giµy b»ng cá th­êng, chÕ t¸c<enter> th« s¬\n\nNĞ tr¸nh: 7 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item6=Tinh §ång Yªu §¸i
+Item6Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +19 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item7=Lan Bè y
+Item7Desc=<color=100,100,255>Lan Bè y [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nlµ thø v¶i b»ng vâ c©y, chØ mÆc nh÷ng<enter> lóc b×nh th­êng\n\nNĞ tr¸nh: 20 ®iÓm\n§é bÒn:  12 /  12\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item8=Yªu §ao
+Item8Desc=<color=100,100,255>Yªu §ao [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i ®ao nhá th«ng th­êng, c¸c hiÖp<enter> kh¸ch rÊt thİch trang bŞ\n\nS¸t th­¬ng nhá nhÊt: 3 ®iÓm\nS¸t th­¬ng lín nhÊt: 11 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn:  22 /  22\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item9=B¹ch §iÖp quÇn
+Item9Desc=<color=100,100,255>B¹ch §iÖp quÇn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLµ lo¹i th­êng phôc cña n÷ giíi\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item10=Hoµng Ngäc Giíi ChØ
+Item10Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item11=ThŞt t­¬i
+Item11Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item12=Hoµng Ngäc Giíi ChØ
+Item12Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item13=Toµn Th¹ch Giíi ChØ
+Item13Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item14=Minh ¶o Tµ S¸t §éc NhËn
+Item14Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Ngò Hoa Ngäc Lé Hoµn
+Item22Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item23=Ngò Hoa Ngäc Lé Hoµn
+Item23Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item24=Ngò Hoa Ngäc Lé Hoµn
+Item24Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item25=Ngò Hoa Ngäc Lé Hoµn
+Item25Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item26=Ngò Hoa Ngäc Lé Hoµn
+Item26Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item27=Ngò Hoa Ngäc Lé Hoµn
+Item27Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item28=Ngò Hoa Ngäc Lé Hoµn
+Item28Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item29=Ngò Hoa Ngäc Lé Hoµn
+Item29Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item30=Ngò Hoa Ngäc Lé Hoµn
+Item30Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item31=Ngò Hoa Ngäc Lé Hoµn
+Item31Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item32=Ngò Hoa Ngäc Lé Hoµn
+Item32Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item33=Thæ ®Şa phï (sö dông v« h¹n)
+Item33Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item34=Tói d­îc phÈm
+Item34Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item35=Lenh Bai Admin
+Item35Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item36=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item36Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item37=Hoµng Ngäc Giíi ChØ
+Item37Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item38=Hoµng Ngäc Giíi ChØ
+Item38Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item39=Hu©n Y H­¬ng Nang
+Item39Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+ItemsCount=40
+[Process_13336]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=3918559
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=13336
+Item0=Hu©n Y H­¬ng Nang
+Item0Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item1=Hoµng Ngäc Giíi ChØ
+Item1Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item2=Hoµng Ngäc Giíi ChØ
+Item2Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item3=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item3Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item4=Lenh Bai Admin
+Item4Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item5=Tói d­îc phÈm
+Item5Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item6=Thæ ®Şa phï (sö dông v« h¹n)
+Item6Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item7=Ngò Hoa Ngäc Lé Hoµn
+Item7Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item8=Ngò Hoa Ngäc Lé Hoµn
+Item8Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item9=Ngò Hoa Ngäc Lé Hoµn
+Item9Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item10=Ngò Hoa Ngäc Lé Hoµn
+Item10Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item11=Ngò Hoa Ngäc Lé Hoµn
+Item11Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item12=Ngò Hoa Ngäc Lé Hoµn
+Item12Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item13=Ngò Hoa Ngäc Lé Hoµn
+Item13Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item14=Ngò Hoa Ngäc Lé Hoµn
+Item14Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Ngò Hoa Ngäc Lé Hoµn
+Item22Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item23=Ngò Hoa Ngäc Lé Hoµn
+Item23Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item24=Ngò Hoa Ngäc Lé Hoµn
+Item24Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item25=Minh ¶o Tµ S¸t §éc NhËn
+Item25Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item26=Toµn Th¹ch Giíi ChØ
+Item26Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item27=Hoµng Ngäc Giíi ChØ
+Item27Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item28=ThŞt t­¬i
+Item28Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item29=Hoµng Ngäc Giíi ChØ
+Item29Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item30=B¹ch §iÖp quÇn
+Item30Desc=<color=100,100,255>B¹ch §iÖp quÇn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLµ lo¹i th­êng phôc cña n÷ giíi\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,0,0>Giíi tİnh: N÷\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item31=Yªu §ao
+Item31Desc=<color=100,100,255>Yªu §ao [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i ®ao nhá th«ng th­êng, c¸c hiÖp<enter> kh¸ch rÊt thİch trang bŞ\n\nS¸t th­¬ng nhá nhÊt: 3 ®iÓm\nS¸t th­¬ng lín nhÊt: 11 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn:  22 /  22\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item32=Lan Bè y
+Item32Desc=<color=100,100,255>Lan Bè y [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nlµ thø v¶i b»ng vâ c©y, chØ mÆc nh÷ng<enter> lóc b×nh th­êng\n\nNĞ tr¸nh: 20 ®iÓm\n§é bÒn:  12 /  12\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi sinh lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item33=Tinh §ång Yªu §¸i
+Item33Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +19 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item34=Th¶o Ngoa
+Item34Desc=<color=255,255,255>Th¶o Ngoa [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i giµy b»ng cá th­êng, chÕ t¸c<enter> th« s¬\n\nNĞ tr¸nh: 7 ®iÓm\n§é bÒn:  20 /  20\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 20 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item35=Tinh §ång Yªu §¸i
+Item35Desc=<color=100,100,255>Tinh §ång Yªu §¸i [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nD©y l­ng nÆng vµ ch¾c ch¾n\n\nNĞ tr¸nh: 17 ®iÓm\n§é bÒn:  15 /  15\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 0 ®iÓm\n<color=99,101,255>Néi lùc tèi ®a: +15 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item36=Hu©n Y H­¬ng Nang
+Item36Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item37=Hoµng Ngäc Giíi ChØ
+Item37Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item38=Tróc L¹p
+Item38Desc=<color=255,255,255>Tróc L¹p [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i mò th­êng thÊy ë vïng Giang Nam\n\nNĞ tr¸nh: 40 ®iÓm\n§é bÒn:   8 /   8\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Yªu cÇu søc m¹nh: 30 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 20 ®iÓm\n<color=255,255,255>Giíi tİnh: Nam\n
+Item39=Tô TiÔn
+Item39Desc=<color=255,255,255>Tô TiÔn [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nGiÊu trong èng s¸o, khi thæi vµo<enter> sÏ phãng ra, nh­ng kh¶ n¨ng s¸t<enter> th­¬ng thÊp\n\nS¸t th­¬ng nhá nhÊt: 8 ®iÓm\nS¸t th­¬ng lín nhÊt: 13 ®iÓm\n§é chİnh x¸c: -0%\n§é bÒn:  28 /  28\n<color=255,255,255>§¼ng cÊp yªu cÇu: 0\n<color=255,255,255>Yªu cÇu søc m¹nh: 15 ®iÓm\n<color=255,255,255>Yªu cÇu th©n ph¸p: 35 ®iÓm\n
+ItemsCount=40
+[Process_8696]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=3918619
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=8696
+Item0=Lôc Tïng Th¹ch hé th©n phï
+Item0Desc=<color=100,100,255>Lôc Tïng Th¹ch hé th©n phï [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLÖnh phï b»ng Lôc Tïng Th¹ch th«ng<enter> th­êng, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item1=ThŞt t­¬i
+Item1Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item2=Hoµng Ngäc Giíi ChØ
+Item2Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item3=Hu©n Y H­¬ng Nang
+Item3Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item4=Hoµng Ngäc Giíi ChØ
+Item4Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item5=ThŞt t­¬i
+Item5Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item6=Hoµng Ngäc Giíi ChØ
+Item6Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item7=Toµn Th¹ch Giíi ChØ
+Item7Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item8=Minh ¶o Tµ S¸t §éc NhËn
+Item8Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item9=Ngò Hoa Ngäc Lé Hoµn
+Item9Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item10=Ngò Hoa Ngäc Lé Hoµn
+Item10Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item11=Ngò Hoa Ngäc Lé Hoµn
+Item11Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item12=Ngò Hoa Ngäc Lé Hoµn
+Item12Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item13=Ngò Hoa Ngäc Lé Hoµn
+Item13Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item14=Ngò Hoa Ngäc Lé Hoµn
+Item14Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Ngò Hoa Ngäc Lé Hoµn
+Item22Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item23=Ngò Hoa Ngäc Lé Hoµn
+Item23Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item24=Ngò Hoa Ngäc Lé Hoµn
+Item24Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item25=Ngò Hoa Ngäc Lé Hoµn
+Item25Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item26=Ngò Hoa Ngäc Lé Hoµn
+Item26Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item27=Thæ ®Şa phï (sö dông v« h¹n)
+Item27Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item28=Tói d­îc phÈm
+Item28Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item29=Lenh Bai Admin
+Item29Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item30=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item30Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item31=Hoµng Ngäc Giíi ChØ
+Item31Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item32=Hoµng Ngäc Giíi ChØ
+Item32Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item33=Hu©n Y H­¬ng Nang
+Item33Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+ItemsCount=34
+[Process_15732]
+Account=1
+RoleName=AdminNe
+Level=160
+Money=1959310
+Faction=3
+Series=-1
+SeriesName=Há»‡ Má»™c
+TongId=0
+TongName=
+IsMale=1
+Pid=15732
+Item0=Hu©n Y H­¬ng Nang
+Item0Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item1=Hoµng Ngäc Giíi ChØ
+Item1Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Fire>Háa<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item2=Hoµng Ngäc Giíi ChØ
+Item2Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Metal>Kim<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item3=Tø Kh«ng NhuyÔn B× Hé UyÓn
+Item3Desc=<color=255,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Wood>Méc<color>\nTrang bŞ Hoµng Kim\n\nNĞ tr¸nh: 135 ®iÓm\n§é bÒn: 100 /  80\n<color=255,255,255>§¼ng cÊp yªu cÇu: 95\n<color=255,255,255>Yªu cÇu søc m¹nh: 110 ®iÓm\n<color=255,0,0>M«n ph¸i: ThiÕu L©m ph¸i\n<color=255,255,0>Sinh lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Thêi gian cho¸ng: -40%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Kü n¨ng [ V« T­íng Tr¶m ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kh¸ng háa: +30%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Néi lùc tèi ®a: +200 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>Kü n¨ng [ Ma Ha V« L­îng ] +3 cÊp  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,75,0>Tø Kh«ng Gi¸ng Ma Giíi §ao\n<color=255,255,255><color=0,75,0>Tø Kh«ng Tö Kim Cµ Sa\n<color=255,255,255><color=0,75,0>Tø Kh«ng Hé ph¸p Yªu §¸i\n<color=255,255,255><color=0,255,0>Tø Kh«ng NhuyÔn B× Hé UyÓn\n<color=255,255,255><color=0,75,0>Tø Kh«ng Giíi LuËt Ph¸p Giíi\n<color=255,255,255>
+Item4=Lenh Bai Admin
+Item4Desc=<color=255,255,255>Lenh Bai Admin<bclr=0,0,0><color>\nVat pham dieu khien server, chi danh<enter> cho tai khoan admin.\n
+Item5=Tói d­îc phÈm
+Item5Desc=<color=255,255,255>Tói d­îc phÈm<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm ®İnh kÌm theo nh¢n vËt<color>\nNhËn thuèc hç trî t©n thñ\n<color=255,255,255>\n§¼ng cÊp thÊp h¬n 130 ®­îc nhËn miÔn phİ\ntõ 130 trë lªn thªm <color=Green>10%<color> tæng sè tiÒn ph¶i tr¶\n<color=255,255,255>
+Item6=Thæ ®Şa phï (sö dông v« h¹n)
+Item6Desc=<color=255,255,255>Thæ ®Şa phï (sö dông v« h¹n)<bclr=0,0,0><color>\nMét lo¹i bïa ph¸p, gióp b¹n mau chãng<enter> ®Õn n¬i muèn ®Õn\n
+Item7=Ngò Hoa Ngäc Lé Hoµn
+Item7Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item8=Ngò Hoa Ngäc Lé Hoµn
+Item8Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item9=Ngò Hoa Ngäc Lé Hoµn
+Item9Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item10=Ngò Hoa Ngäc Lé Hoµn
+Item10Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item11=Ngò Hoa Ngäc Lé Hoµn
+Item11Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item12=Ngò Hoa Ngäc Lé Hoµn
+Item12Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item13=Ngò Hoa Ngäc Lé Hoµn
+Item13Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item14=Ngò Hoa Ngäc Lé Hoµn
+Item14Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item15=Ngò Hoa Ngäc Lé Hoµn
+Item15Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item16=Ngò Hoa Ngäc Lé Hoµn
+Item16Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item17=Ngò Hoa Ngäc Lé Hoµn
+Item17Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item18=Ngò Hoa Ngäc Lé Hoµn
+Item18Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item19=Ngò Hoa Ngäc Lé Hoµn
+Item19Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item20=Ngò Hoa Ngäc Lé Hoµn
+Item20Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item21=Ngò Hoa Ngäc Lé Hoµn
+Item21Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item22=Ngò Hoa Ngäc Lé Hoµn
+Item22Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item23=Ngò Hoa Ngäc Lé Hoµn
+Item23Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item24=Ngò Hoa Ngäc Lé Hoµn
+Item24Desc=<color=255,255,255>Ngò Hoa Ngäc Lé Hoµn<bclr=0,0,0><color>\n<color=0,255,0>VËt phÈm n y ®· khóa bëi hiÖu lùc vÜnh viÔn<color>\n§ång thêi phôc håi 5000 ®iÓm Sinh<enter> lùc vµ Néi lùc\nPhôc håi sinh lùc mçi nöa gi©y: +500 ®iÓm\nPhôc håi néi lùc mçi nöa gi©y: +500 ®iÓm\n
+Item25=Minh ¶o Tµ S¸t §éc NhËn
+Item25Desc=<color=255,255,0>Minh ¶o Tµ S¸t §éc NhËn [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nTrang bŞ Hoµng Kim\n\nS¸t th­¬ng nhá nhÊt: 40 ®iÓm\nS¸t th­¬ng lín nhÊt: 114 ®iÓm\n§é chİnh x¸c: -20%\n§é bÒn: 100 /  99\n<color=255,255,255>§¼ng cÊp yªu cÇu: 99\n<color=255,255,255>Yªu cÇu søc m¹nh: 135 ®iÓm\n<color=255,255,255>M«n ph¸i: Ngò §éc Gi¸o\n<color=255,255,0>S¸t th­¬ng vËt lı - ngo¹i c«ng: +100%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>S¸t th­¬ng vËt lı - ngo¹i c«ng: +50 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Hót néi lùc: +8%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>B¨ng s¸t - ngo¹i c«ng: +120 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=255,255,0>Tèc ®é ®¸nh - ngo¹i c«ng: +20%  [<color=255,215,0>MAX<color>]\n<color=255,255,255><color=123,125,90>§éc s¸t - ngo¹i c«ng: +30 ®iÓm/lÇn  [<color=255,215,0>MAX<color>]\n<color=255,255,255>\n<color=0,255,0>Minh ¶o Tµ S¸t §éc NhËn\n<color=255,255,255><color=0,75,0>Minh ¶o U §éc ¸m Y\n<color=255,255,255><color=0,75,0>Minh ¶o §éc YÕt ChØ Hoµn\n<color=255,255,255><color=0,75,0>Minh ¶o Hñ Cèt Hé UyÓn\n<color=255,255,255><color=0,75,0>Minh ¶o Song Hoµn Xµ Hµi\n<color=255,255,255>
+Item26=Toµn Th¹ch Giíi ChØ
+Item26Desc=<color=100,100,255>Toµn Th¹ch Giíi ChØ [cÊp 10]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn kh¶m Toµn Th¹ch mang tõ<enter> h¶i ngo¹i vÒ, nghe nãi cã tiÒm Èn<enter> mét søc m¹nh thÇn bİ\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 60\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +9 ®iÓm\n<color=255,255,255><color=120,120,120>Kh¸ng háa: +25%\n<color=255,255,255><color=99,101,255>Néi lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Sinh khİ: +20 ®iÓm\n<color=255,255,255><color=99,101,255>Sinh lùc tèi ®a: +200 ®iÓm\n<color=255,255,255><color=120,120,120>Thêi gian cho¸ng: -40%\n<color=255,255,255>
+Item27=Hoµng Ngäc Giíi ChØ
+Item27Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+Item28=ThŞt t­¬i
+Item28Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item29=Hoµng Ngäc Giíi ChØ
+Item29Desc=<color=100,100,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=99,101,255>Néi lùc tèi ®a: +11 ®iÓm  [<color=255,255,255>5<color>-<color=255,215,0>20<color>]\n<color=255,255,255>
+Item30=Hu©n Y H­¬ng Nang
+Item30Desc=<color=255,255,255>Hu©n Y H­¬ng Nang [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i h­¬ng liÖu ®­îc tinh chÕ tõ<enter> cá Hu©n Y, d©n gian th­êng dïng\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,0,0>Giíi tİnh: N÷\n
+Item31=Hoµng Ngäc Giíi ChØ
+Item31Desc=<color=255,255,255>Hoµng Ngäc Giíi ChØ [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLo¹i nhÉn ®eo b»ng Hoµng Ngäc th­êng<enter> thÊy, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n
+Item32=ThŞt t­¬i
+Item32Desc=<color=255,255,255>ThŞt t­¬i<bclr=0,0,0><color>\nCã thÓ mang ®Õn b¸n cho Vâ S­.\n
+Item33=Lôc Tïng Th¹ch hé th©n phï
+Item33Desc=<color=100,100,255>Lôc Tïng Th¹ch hé th©n phï [cÊp 1]<bclr=0,0,0><color>\n<color=White>Thuéc tİnh ngò hµnh:<color> <color=Water>Thñy<color>\nLÖnh phï b»ng Lôc Tïng Th¹ch th«ng<enter> th­êng, kh«ng ®¸ng gi¸\n\n<color=255,255,255>§¼ng cÊp yªu cÇu: 1\n<color=255,255,255>Giíi tİnh: Nam\n<color=99,101,255>Phôc håi thÓ lùc mçi nöa gi©y: +1 ®iÓm  [<color=255,215,0>MAX<color>]\n<color=255,255,255>
+ItemsCount=34
